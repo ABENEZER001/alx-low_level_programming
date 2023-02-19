@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * miain - Entr point
+ * main - Entry point
  *
  * Return: Aalways 0 (success)
  */
@@ -16,5 +16,5 @@ int main(void)
 			c--;
 		}
 	putchar('\n');
-	return(0);
+	return (0);
 }
