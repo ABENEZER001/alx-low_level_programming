@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
- * main - function
+ * main - function of argument
  * @argc: length of argv
  * @argv: number of argument
  * Return: Always 0
